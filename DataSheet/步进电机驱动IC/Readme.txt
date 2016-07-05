@@ -1,0 +1,1 @@
+东芝 TC78S600FNG  VCC供2.8V，VM供Battery，Vref 通过2.8V限流电阻分压至0.8V；
